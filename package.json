@@ -1,0 +1,15 @@
+{
+  "name": "com.cloud.sentient",
+  "version": "1.0.0",
+  "description": "The Sentient Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saugat Chetry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
